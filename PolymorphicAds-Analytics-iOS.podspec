@@ -6,14 +6,14 @@ Pod::Spec.new do |s|
   s.license = {
     :type => "Commercial",
     :text => <<-LICENSE
-      (C) Full Speed Inc. ALL RIGHTS RESERVED.
+      (C) CALM BOLD INC. ALL RIGHTS RESERVED.
     LICENSE
    }
   s.source = {
       :git => "https://github.com/FullSpeedInc-SmartPhoneDepartment/PolymorphicAds-Analytics-iOS.git",
       :tag => "1.0.0"
   }
-  s.author             = "Full Speed Inc."
+  s.author             = "CALM BOLD INC."
   s.platform     = :ios
   s.vendored_framework  = "FSAdAnalytics.framework"
   s.requires_arc = true
